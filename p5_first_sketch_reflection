@@ -1,0 +1,31 @@
+Reflection on My First P5 Sketch
+Initial Planning
+When I first started planning my P5 sketch, I made a rough drawing of the basic shapes I wanted to create. 
+Translating that into code seemed straightforward at first, but once I began coding, the process revealed complexities I hadn't anticipated. 
+My original drawing helped guide me, but I had to adjust my expectations and make changes along the way.
+
+Challenges
+One of the most challenging aspects was understanding how the coordinate system works in P5. 
+It took some time to get used to how positioning functions and how to adjust shapes based on the canvas size. 
+Additionally, keeping track of the different shape properties, such as stroke weight and fill color, was tricky when I wanted multiple elements to work together seamlessly.
+
+What I Learned
+Through trial and error, I learned how to control shape sizes and positions more effectively. 
+I also gained a better understanding of how code structure and logic play an important role in ensuring the sketch runs smoothly. 
+The way functions like draw() and setup() work makes much more sense now than when I started.
+
+Adjustments
+During the implementation, I made several adjustments to my original design. 
+Some shapes had to be resized or repositioned to fit the canvas better. 
+I also added new elements as I became more comfortable experimenting with different shapes and colors.
+
+Proud Moments
+I’m proud of completing the sketch despite the initial challenges. 
+Seeing the shapes come to life and interact with each other as intended was really rewarding. 
+I’m particularly happy with how I was able to incorporate some of the additional drawings I made during the planning phase.
+
+Final Thoughts
+Looking back, I feel I’ve learned a lot about the process of planning, coding, and refining a sketch in P5. 
+If I were to start over, I’d spend more time in the planning phase to better anticipate the coding challenges ahead.
+Overall, I’m pleased with the outcome and look forward to building on this foundation in future sketches.
+
